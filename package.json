@@ -1,0 +1,36 @@
+{
+    "name": "debakatas-extensionpack",
+    "displayName": "deBakatas Extension Pack",
+    "description": "Perfect set of extensions to work with HTML, CSS, JavaScript and React",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "publisher": "nikodermus",
+    "license": "MIT",
+    "categories": [
+        "Extension Packs",
+        "Formatters",
+        "Linters"
+    ],
+    "extensionPack": [
+        "burkeholland.simple-react-snippets",
+        "CoenraadS.bracket-pair-colorizer",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "jpoissonnier.vscode-styled-components",
+        "naumovs.color-highlight",
+        "suming.react-proptypes-generate",
+        "tinkertrain.theme-panda"
+    ],
+    "icon": "debakatas-icon.png",
+    "repository": {
+        "url": "https://github.com/debakatas/vscode-extensions"
+    },
+    "homepage": "https://github.com/debakatas/vscode-extensions",
+    "bugs": {
+        "url": "https://github.com/debakatas/vscode-extensions/issues"
+    }
+}
